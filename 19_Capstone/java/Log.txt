@@ -1,0 +1,264 @@
+
+10/13/2019 14:38:27 Feed Money 0.00 5.00 5.00 
+10/13/2019 14:38:27 Finish Transaction 5.00 0.00 
+10/13/2019 14:46:36 Feed Money 0.00 5.00 
+10/13/2019 14:46:36 Moonpie 5.00 5.00 
+10/13/2019 14:46:36 Finish Transaction 5.00 0.00 
+10/13/2019 14:51:44 Feed Money 0.00 5.00 
+10/13/2019 14:51:44 Feed Money 5.00 6.00 
+10/13/2019 14:51:44 Please make a valid location selection 6.00 6.00 
+10/13/2019 14:51:44 Mountain Melter 6.00 6.00 
+10/13/2019 14:51:44 Chiclets 6.00 6.00 
+10/13/2019 14:51:44 Finish Transaction 6.00 0.00 
+10/13/2019 14:57:29 U-Chews 0.00 0.00 
+10/13/2019 14:57:29 Feed Money 0.00 5.00 
+10/13/2019 14:57:29 Wonka Bar 3.50 3.50 
+10/13/2019 14:57:29 Finish Transaction 5.00 0.00 
+10/13/2019 15:08:43 Feed Money 0.00 5.00 
+10/13/2019 15:08:43 Please make a valid location selection 5.00 5.00 
+10/13/2019 15:11:24 Feed Money 0.00 5.00 
+10/13/2019 15:11:24 Chiclets 5.00 5.00 
+10/13/2019 15:12:20 Feed Money 0.00 5.00 
+10/13/2019 15:12:20 Feed Money 5.00 
+10/13/2019 15:14:11 Feed Money 0.00 
+10/13/2019 15:16:06 Feed Money 0.00 0.00 
+10/13/2019 15:16:52 Feed Money 0.00 0.00 
+10/13/2019 15:17:31 Feed Money 0.00 0.00 
+10/13/2019 15:17:31 Please make a valid location selection 0.00 0.00 
+10/13/2019 15:17:31 Finish Transaction 0.00 0.00 
+10/13/2019 15:28:50 Feed Money 0.00 5.00 
+10/13/2019 15:28:50 Triplemint 5.00 5.00 
+10/13/2019 15:33:03 Feed Money 0.00 5.00 
+10/13/2019 15:33:03 Moonpie 5.00 5.00 
+10/13/2019 15:35:30 Feed Money 0.00 5.00 
+10/13/2019 15:35:30 Cloud Popcorn 5.00 5.00 
+10/13/2019 15:35:30 Finish Transaction 5.00 0.00 
+10/13/2019 15:40:14 Feed Money 0.00 5.00 
+10/13/2019 15:40:14 Cola 5.00 5.00 
+10/13/2019 15:41:35 Feed Money 0.00 5.00 
+10/13/2019 15:41:35 Cola 5.00 
+10/13/2019 15:43:36 Feed Money 0.00 5.00 
+10/13/2019 15:43:36 Cola 5.00 5.00 
+10/13/2019 15:58:51 Feed Money 0.00 5.00 
+10/13/2019 15:58:51 Dr. Salt 5.00 
+10/13/2019 16:01:16 Feed Money 0.00 5.00 
+10/13/2019 16:01:16 Dr. Salt 5.00 5.00 
+10/13/2019 16:01:16 Finish Transaction 5.00 0.00 
+10/13/2019 16:03:45 Feed Money 0.00 5.00 
+10/13/2019 16:03:45 Little League Chew 5.00 5.00 
+10/13/2019 16:03:45 Please make a valid location selection 5.00 5.00 
+10/13/2019 16:03:45 Finish Transaction 5.00 0.00 
+10/13/2019 16:06:59 Feed Money 0.00 5.00 
+10/13/2019 16:06:59 Triplemint 5.00 
+10/13/2019 17:06:47 Feed Money 0.00 5.00 
+10/13/2019 17:06:47 Chiclets 5.00 5.00 
+10/13/2019 17:06:47 Finish Transaction 5.00 0.00 
+10/13/2019 17:11:54 Feed Money 0.00 5.00 
+10/13/2019 17:11:54 Mountain Melter 5.00 5.00 
+10/13/2019 17:14:07 Feed Money 0.00 5.00 
+10/13/2019 17:14:07 Stackers 5.00 
+10/13/2019 17:17:48 Feed Money 0.00 5.00 
+10/13/2019 17:17:48 Cowtales 5.00 5.00 
+10/13/2019 17:17:48 Finish Transaction 5.00 0.00 
+10/13/2019 17:19:00 Feed Money 0.00 5.00 
+10/13/2019 17:19:00 Potato Crisps 5.00 5.00 
+10/13/2019 17:20:37 Feed Money 0.00 5.00 
+10/13/2019 17:20:37 Cola 5.00 5.00 
+10/13/2019 17:20:37 Finish Transaction 5.00 0.00 
+10/13/2019 17:24:12 Feed Money 0.00 5.00 
+10/13/2019 17:24:12 Cloud Popcorn 5.00 5.00 
+10/13/2019 17:27:56 Feed Money 0.00 5.00 
+10/13/2019 17:27:56 Mountain Melter 5.00 
+10/13/2019 17:31:40 Feed Money 0.00 5.00 
+10/13/2019 17:31:40 Mountain Melter 5.00 5.00 
+10/13/2019 17:34:56 Feed Money 0.00 5.00 
+10/13/2019 17:34:56 Mountain Melter 5.00 
+10/13/2019 17:35:24 Feed Money 0.00 5.00 
+10/13/2019 17:35:24 Cloud Popcorn 5.00 
+10/13/2019 17:35:59 Feed Money 0.00 5.00 
+10/13/2019 18:15:20 Feed Money 0.00 0.00 
+10/13/2019 18:15:20 Feed Money 0.00 5.00 
+10/13/2019 18:15:20 Please make a valid location selection 5.00 5.00 
+10/13/2019 18:15:20 Potato Crisps 5.00 5.00 
+10/13/2019 18:15:20 Finish Transaction 5.00 0.00 
+10/13/2019 18:21:55 Feed Money 0.00 5.00 
+10/13/2019 18:21:55 Potato Crisps 5.00 5.00 
+10/13/2019 18:21:55 Finish Transaction 5.00 
+10/13/2019 18:24:44 Feed Money 0 5.0 
+10/13/2019 18:24:44 Stackers 5.0 5.0 
+10/13/2019 18:24:44 Finish Transaction 5.0 0 
+10/13/2019 18:26:16 Feed Money 0 5.0 
+10/13/2019 18:26:16 Potato Crisps 5.0 5.0 
+10/13/2019 18:26:16 Finish Transaction 5.0 
+10/13/2019 18:27:41 Feed Money 0 5.0 
+10/13/2019 18:33:26 Feed Money 0 5.0 
+10/13/2019 18:37:10 Feed Money 0 5.0 
+10/13/2019 18:37:10 Stackers 5.0 5.0 
+10/13/2019 18:37:10 Finish Transaction 5.0 0 
+10/13/2019 18:48:42 Feed Money 0 5.0 5.0 
+10/13/2019 18:48:42 Finish Transaction 5.0 0 
+10/13/2019 18:50:28 Feed Money 0 5.0 5.0 
+10/13/2019 18:50:28 Finish Transaction 5.0 0 
+10/13/2019 18:58:26 Feed Money 0 5.0 
+10/13/2019 18:58:26 Item location not valid, please select another item 5.0 
+10/13/2019 18:58:49 Feed Money 0 5.0 
+10/13/2019 18:59:51 Feed Money 0 2.0 
+10/13/2019 19:20:16 Feed Money 0 0.0 
+10/13/2019 19:20:16 Stackers 0.0 0.0 
+10/13/2019 19:20:16 Finish Transaction 0.0 0.0 
+10/13/2019 19:22:17 Feed Money 0 0.0 
+10/13/2019 19:23:09 Feed Money 0 0.0 
+10/13/2019 19:24:44 Feed Money 0 0.0 
+10/13/2019 19:24:44 Stackers 0.0 0.0 
+10/13/2019 19:24:44 Finish Transaction 0.0 0.0 
+10/13/2019 19:26:48 Feed Money 0 0.0 
+10/13/2019 19:27:59 Feed Money 0 
+10/13/2019 19:29:35 Feed Money 0 10.0 
+10/13/2019 19:29:57 Feed Money 0 10.0 
+10/13/2019 19:30:26 Feed Money 0 10.0 
+10/13/2019 19:30:26 Dr. Salt 10.0 8.5 
+10/13/2019 19:30:26 Finish Transaction 8.5 0 
+10/13/2019 19:32:13 Feed Money 0 5.0 
+10/13/2019 19:32:13 Dr. Salt 5.0 3.5 
+10/13/2019 19:32:13 Finish Transaction 3.5 0 
+10/13/2019 19:39:02 Feed Money 0 5.0 
+10/13/2019 19:39:02 Mountain Melter 5.0 3.5 
+10/13/2019 19:39:02 Finish Transaction 3.5 0 
+10/13/2019 19:42:14 Feed Money 0 10.0 
+10/13/2019 19:42:14 Heavy 10.0 8.5 
+10/13/2019 19:42:14 Chiclets 8.5 7.75 
+10/13/2019 19:42:14 Stackers 7.75 6.30 
+10/13/2019 19:42:14 Cloud Popcorn 6.30 2.65 
+10/13/2019 19:42:14 Cloud Popcorn 2.65 2.65 
+10/13/2019 19:42:14 Cloud Popcorn 2.65 2.65 
+10/13/2019 19:42:14 Cloud Popcorn 2.65 2.65 
+10/13/2019 19:42:14 Cloud Popcorn 2.65 2.65 
+10/13/2019 19:42:14 Cloud Popcorn 2.65 2.65 
+10/13/2019 19:42:14 Little League Chew 2.65 1.70 
+10/13/2019 19:42:14 Finish Transaction 1.70 0 
+10/13/2019 19:46:34 Feed Money 0 5.0 
+10/13/2019 19:46:34 Dr. Salt 5.0 3.5 
+10/13/2019 19:46:34 Little League Chew 3.5 2.55 
+10/13/2019 19:46:34 Finish Transaction 2.55 0 
+10/13/2019 19:49:24 Please make a valid location selection 0 0 
+10/13/2019 19:49:24 Chiclets 0 0 
+10/13/2019 19:49:48 Feed Money 0 5.0 
+10/13/2019 19:49:48 Little League Chew 5.0 4.05 
+10/13/2019 19:49:48 Finish Transaction 4.05 0 
+10/13/2019 19:54:33 Feed Money 0 5.0 
+10/13/2019 19:54:33 U-Chews 5.0 4.15 
+10/13/2019 19:54:33 Finish Transaction 4.15 0 
+10/13/2019 19:55:20 Feed Money 0 5.0 
+10/13/2019 19:55:20 Please make a valid location selection 5.0 5.0 
+10/13/2019 19:55:20 U-Chews 5.0 4.15 
+10/13/2019 19:55:20 Finish Transaction 4.15 0 
+10/13/2019 19:56:09 Feed Money 0 5.0 
+10/13/2019 19:56:09 U-Chews 5.0 4.15 
+10/13/2019 19:56:09 Finish Transaction 4.15 0 
+10/13/2019 19:57:22 Feed Money 0 5.0 
+10/13/2019 19:57:22 U-Chews 5.0 4.15 
+10/13/2019 19:57:22 Finish Transaction 4.15 0 
+10/13/2019 20:04:57 Feed Money 0 5.0 
+10/13/2019 20:04:57 U-Chews 5.0 4.15 
+10/13/2019 20:04:57 Finish Transaction 4.15 0 
+10/13/2019 20:06:54 Feed Money 0 5.0 
+10/13/2019 20:06:54 Feed Money 5.0 10.0 
+10/13/2019 20:06:54 Triplemint 10.0 9.25 
+10/13/2019 20:06:54 Triplemint 9.25 8.50 
+10/13/2019 20:06:54 Please make a valid location selection 8.50 8.50 
+10/13/2019 20:06:54 Triplemint 8.50 7.75 
+10/13/2019 20:06:54 Finish Transaction 7.75 0 
+10/13/2019 20:17:17 Feed Money 0 5.0 
+10/13/2019 20:17:17 Chiclets 5.0 4.25 
+10/13/2019 20:17:17 Finish Transaction 4.25 0 
+10/13/2019 22:28:15 Feed Money 0 5.0 
+10/13/2019 22:28:15 Feed Money 5.0 10.0 
+10/13/2019 22:28:15 Please make a valid location selection 10.0 10.0 
+10/13/2019 22:28:15 Stackers 10.0 8.55 
+10/13/2019 22:28:15 Stackers 8.55 7.10 
+10/13/2019 22:28:15 Stackers 7.10 5.65 
+10/13/2019 22:28:15 Stackers 5.65 4.20 
+10/13/2019 22:28:15 Stackers 4.20 2.75 
+10/13/2019 22:28:15 Stackers 2.75 1.30 
+10/13/2019 22:28:15 Stackers 1.30 1.30 
+10/13/2019 22:44:49 Feed Money 0 5.0 
+10/13/2019 22:44:49 Stackers 5.0 3.55 
+10/13/2019 22:47:47 Feed Money 0 5.0 
+10/13/2019 22:47:47 Grain Waves 5.0 2.25 
+10/13/2019 22:48:43 Feed Money 0 5.0 
+10/13/2019 22:50:05 Feed Money 0 5.0 
+10/13/2019 22:50:05 Stackers 5.0 3.55 
+10/13/2019 22:55:35 Please make a valid location selection 0 0 
+10/13/2019 23:02:13 Feed Money 0 2.0 
+10/13/2019 23:02:13 Feed Money 2.0 7.0 
+10/13/2019 23:02:13 Feed Money 7.0 7.0 
+10/13/2019 23:02:13 Chiclets 7.0 6.25 
+10/13/2019 23:05:37 Feed Money 0 5.0 
+10/13/2019 23:05:37 Stackers 5.0 3.55 
+10/13/2019 23:10:18 Grain Waves 0 0 
+10/13/2019 23:10:52 Stackers 0 0 
+10/13/2019 23:11:40 Stackers 0 0 
+10/13/2019 23:17:08 Feed Money 0 5.0 
+10/13/2019 23:17:08 Stackers 5.0 3.55 
+10/13/2019 23:18:08 Stackers 0 0 
+10/13/2019 23:28:35 Feed Money 0 0 
+10/13/2019 23:28:35 Please make a valid location selection 0 0 
+10/13/2019 23:29:10 Feed Money 0 2.0 
+10/13/2019 23:29:10 Feed Money 2.0 2.0 
+10/13/2019 23:29:10 Feed Money 2.0 2.0 
+10/13/2019 23:29:10 Please make a valid location selection 2.0 2.0 
+10/13/2019 23:32:44 Feed Money 0 2.0 
+10/13/2019 23:32:44 Please make a valid location selection 2.0 2.0 
+10/13/2019 23:33:19 Feed Money 0 5.0 
+10/13/2019 23:33:19 Stackers 5.0 3.55 
+10/13/2019 23:33:42 Please make a valid location selection 0 0 
+10/13/2019 23:33:42 Stackers 0 0 
+10/13/2019 23:33:42 Please make a valid location selection 0 0 
+10/13/2019 23:33:42 Please make a valid location selection 0 0 
+10/13/2019 23:33:42 Stackers 0 0 
+10/13/2019 23:33:42 Finish Transaction 0 0 
+10/13/2019 23:35:58 Feed Money 0 5.0 
+10/13/2019 23:35:58 Stackers 5.0 3.55 
+10/13/2019 23:37:04 Feed Money 0 5.0 
+10/13/2019 23:37:04 Stackers 5.0 3.55 
+10/13/2019 23:38:45 Feed Money 0 
+10/13/2019 23:38:59 Feed Money 0 5.0 
+10/13/2019 23:38:59 Stackers 5.0 3.55 
+10/13/2019 23:43:48 Feed Money 0 5.0 
+10/13/2019 23:43:48 Stackers 5.0 3.55 
+10/13/2019 23:46:33 Feed Money 0 5.0 
+10/13/2019 23:46:33 Stackers 5.0 
+10/13/2019 23:48:00 Feed Money 0 5.0 
+10/13/2019 23:48:00 Stackers 5.0 
+10/13/2019 23:53:58 Feed Money 0 5.0 
+10/13/2019 23:53:58 Stackers 5.0 3.55 
+10/13/2019 23:53:58 Finish Transaction 3.55 0 
+10/13/2019 23:54:24 Feed Money 0 5.0 
+10/13/2019 23:54:24 U-Chews 5.0 4.15 
+10/13/2019 23:54:24 Finish Transaction 4.15 0 
+10/13/2019 23:55:35 Feed Money 0 5.0 
+10/13/2019 23:55:35 U-Chews 5.0 4.15 
+10/13/2019 23:55:35 Finish Transaction 4.15 0 
+10/13/2019 23:56:13 Feed Money 0 5.0 
+10/13/2019 23:56:13 Little League Chew 5.0 4.05 
+10/13/2019 23:56:13 Finish Transaction 4.05 0 
+10/13/2019 23:56:46 Feed Money 0 5.0 
+10/13/2019 23:56:46 Heavy 5.0 3.5 
+10/13/2019 23:56:46 Finish Transaction 3.5 0 
+10/13/2019 23:57:39 Feed Money 0 5.0 
+10/13/2019 23:57:39 Cola 5.0 3.75 
+10/13/2019 23:57:39 Finish Transaction 3.75 0 
+10/13/2019 23:58:14 Feed Money 0 5.0 
+10/13/2019 23:58:14 Cola 5.0 3.75 
+10/13/2019 23:58:14 Finish Transaction 3.75 0 
+10/14/2019 00:00:02 Feed Money 0 5.0 
+10/14/2019 00:00:02 Cloud Popcorn 5.0 1.35 
+10/14/2019 00:00:02 Potato Crisps 1.35 1.35 
+10/14/2019 00:00:02 Finish Transaction 1.35 0 
+10/14/2019 00:16:40 Feed Money 0 5.0 
+10/14/2019 00:16:40 Feed Money 5.0 10.0 
+10/14/2019 00:16:40 Feed Money 10.0 10.0 
+10/14/2019 00:16:40 Stackers 10.0 8.55 
+10/14/2019 00:16:40 Cloud Popcorn 8.55 4.90 
+10/14/2019 00:16:40 Grain Waves 4.90 2.15 
+10/14/2019 00:16:40 Finish Transaction 2.15 0 
